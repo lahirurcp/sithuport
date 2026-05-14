@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(cd \"/mnt/c/Users/lahir/Desktop\" && npm create vite@latest sithuport -- --template react 2>&1)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
