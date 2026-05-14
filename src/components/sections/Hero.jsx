@@ -53,7 +53,7 @@ export default function Hero() {
         }}
       >
         <img
-          src="/hero.jpg"
+          src="/hero.png"
           alt="Trevin Perera"
           onError={e => { e.target.style.display = 'none' }}
           style={{
